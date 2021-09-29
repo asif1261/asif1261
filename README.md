@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asif1261
+- 👋 Hi, I’m Asif
 - 👀 I’m interested in Coding, App Making, cooking
 - 🌱 I’m currently working in a software Company as an android developer
 - 💞️ I’m looking to collaborate on making app in a new app technology
