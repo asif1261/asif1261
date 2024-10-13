@@ -1,5 +1,5 @@
 Hi, I'm Asif 👋
-Native Android Developer | Kotlin Enthusiast | MVVM | Clean Architecture | Jetpack
+Native Android Developer | Kotlin Enthusiast | MVVM | Clean Architecture | Jetpack Compose
 
 I specialize in building robust, scalable Android applications using modern development practices. 
 My expertise includes Kotlin, Android Jetpack components, MVVM architecture, and dependency injection with Hilt. 
