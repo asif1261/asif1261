@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Asif
-- 👀 I’m interested in Coding, App Making, cooking
-- 🌱 I’m currently working in a software Company as an android developer
-- 💞️ I’m looking to collaborate on making app in a new app technology
-- 📫 If you want to reach me please email me at: sk.asifji@gmail.com
+Hi, I'm Asif 👋
+Native Android Developer | Kotlin Enthusiast | MVVM | Clean Architecture | Jetpack
+
+I specialize in building robust, scalable Android applications using modern development practices. 
+My expertise includes Kotlin, Android Jetpack components, MVVM architecture, and dependency injection with Hilt. 
+I focus on clean, maintainable code and aim to deliver high-quality apps with great user experiences.
+
+- 💡 Skills: Kotlin, Java, MVVM, Clean Architecture, Room, Retrofit, Hilt, Jetpack Compose, Coroutines, LiveData
+- 🛠️ Tools: Android Studio, Git, Firebase, REST APIs, GitHub Actions, JUnit, MockK
+- 📱 Interests: Mobile UI/UX design, Offline-first apps, Multithreading, KMM, Performance optimization
+- 📫 Reach me: LinkedIn: linkedin.com/in/asif1261 | Email: sk.asifji@gmail.com
 
 <!---
 asif1261/asif1261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
